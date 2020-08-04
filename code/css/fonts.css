@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Avenir-Heavy';
+  src: url('./../../fonts/AvenirHeavy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Roman';
+  src: url('./../../fonts/AvenirRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir-Regular';
+  src: url('./../../fonts/AvenirRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./../../fonts/RubikRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
